@@ -27,21 +27,7 @@
       "isDone": true,
       "createdDate": 1665719197179,
       "updatedDate": 1665719197179
-    },
-    "8a9b81ba-82c3-4af7-ade5-3dd5a04c0748": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665719664289,
-      "updatedDate": 1665719664289
-    },
-    "8122ecd9-4f83-43d9-844e-22a306b50c23": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665719664300,
-      "updatedDate": 1665719664300
     }
   },
-  "test": 1665719663104
+  "test": 1665719196281
 }
