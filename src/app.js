@@ -2,7 +2,7 @@ import Fastify from 'fastify';
 import { general } from './services/general/index.js';
 import { createTodo } from './services/todos/create-todo.js';
 import { getManyTodo } from './services/todos/get-many-todo.js';
-// import { getTodo } from './services/todos/get-todo.js';
+import { getTodo } from './services/todos/get-todo.js';
 
 const prefix = '/api';
 
@@ -19,7 +19,8 @@ export async function build () {
   fastify.get(`${prefix}/todo`, getManyTodo);
 
   // get one todo
-  // fastify.get(`${prefix}/todo/:todoId`, getTodo);
+  fastify.get(`${prefix}/todo/:todoId`, getTodo);
+  //    this means that it is not a path but a variable /todo/:todoId`
 
   return fastify;
 }
