@@ -21,16 +21,13 @@ export async function build () {
   };
 
   const swaggerOptions = {
-     openapi: specification,
-     routePrefix: '/docs',
+    openapi: specification,
+    routePrefix: '/docs',
     exposeRoute: true
   };
 
   fastify.register(swagger, swaggerOptions);
   fastify.register(openAPIGlue, openAPIGlueOptions);
-
-
-  
 
   // create todo
   // fastify.post(`${prefix}/todo`, createTodo);
