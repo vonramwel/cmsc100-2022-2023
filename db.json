@@ -1,187 +1,63 @@
 {
-  "todos": {
-    "ba8e32e0-0701-4774-a571-0f22cece3e89": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665718528943,
-      "updatedDate": 1665718528943
+  "users": {
+    "imvonramwel": {
+      "hashedPassword": "$2b$10$egYrUJqWs8QOM6d3nvA97OkOhkMPViTUG4nAvkOrlrjOaZlrKfMJS",
+      "firstName": "Von",
+      "lastName": "Nicolas",
+      "createdDate": 1667142330394,
+      "updatedDate": 1667142330394
     },
-    "df2789d5-1314-48a7-bf65-a1a27b978fb9": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665718528980,
-      "updatedDate": 1665718528980
-    },
-    "563b6e17-3ea8-41f4-bdcf-06632e7cf81f": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665719197128,
-      "updatedDate": 1665719197128
-    },
-    "071d463f-d851-45b2-997b-fc7117583766": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665719197179,
-      "updatedDate": 1665719197179
-    },
-    "8a9b81ba-82c3-4af7-ade5-3dd5a04c0748": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665719664289,
-      "updatedDate": 1665719664289
-    },
-    "8122ecd9-4f83-43d9-844e-22a306b50c23": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665719664300,
-      "updatedDate": 1665719664300
-    },
-    "4b23ad3d-1b53-4c7b-b172-1eeea34804f3": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665720214179,
-      "updatedDate": 1665720214179
-    },
-    "6d174ff1-ef4c-4e36-ba92-090595e7fcae": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665720214213,
-      "updatedDate": 1665720214213
-    },
-    "5b2f3df5-bed2-443e-a9e8-2ce91cc70445": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665720531101,
-      "updatedDate": 1665720531101
-    },
-    "60d80152-61ae-4c5a-b145-affc964d4d24": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665720531115,
-      "updatedDate": 1665720531115
-    },
-    "35e86836-6309-415f-875e-79bda982930c": {
-      "title": "New title ",
-      "description": "description 2 ",
-      "isDone": true,
-      "createdDate": 1665720531226,
-      "updatedDate": 1665756073684
-    },
-    "a14fc969-eb92-45b8-add1-b66ada3eb782": {
-      "title": "New Todo for update",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665756290329,
-      "updatedDate": 1665756290336
-    },
-    "097489cb-a3a6-4297-8420-052165a13bb6": {
-      "title": "New Todo for get",
-      "description": "Some description",
-      "isDone": true,
-      "createdDate": 1665756290340,
-      "updatedDate": 1665756290341
-    },
-    "d25d797d-09fe-495f-ad8c-014080f26f36": {
-      "title": "New Todo for update 2",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665756290344,
-      "updatedDate": 1665756290345
-    },
-    "bc8feeef-ee42-4498-8237-5c05e6053bd7": {
-      "title": "New Todo for get",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665756290352,
-      "updatedDate": 1665756290352
-    },
-    "bc5e206f-266d-4443-b154-eca16100f139": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665756290394,
-      "updatedDate": 1665756290394
-    },
-    "78b4710c-a6e2-4987-867f-517eb1bbdf9c": {
-      "title": "New Todo for update",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665757769024,
-      "updatedDate": 1665757769032
-    },
-    "4cb69dd2-68b4-48f6-838f-7e9918a4ecd9": {
-      "title": "New Todo",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665757769119,
-      "updatedDate": 1665757769119
-    },
-    "f901ae43-68ae-4e00-ad31-4cd3e56d1597": {
-      "title": "New Todo for get",
-      "description": "Some description",
-      "isDone": true,
-      "createdDate": 1665757769123,
-      "updatedDate": 1665757769124
-    },
-    "6c5f71f6-2e9f-4d86-aa20-bfd742077ecf": {
-      "title": "New Todo for update 2",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1665757769127,
-      "updatedDate": 1665757769128
-    },
-    "524d930c-d1d5-4ed0-8584-6cef94ee3c8b": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1665757769131,
-      "updatedDate": 1665757769131
-    },
-    "46f10bd6-adea-4143-8707-3100f998777c": {
-      "title": "New Todo for get",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1667138888008,
-      "updatedDate": 1667138888008
-    },
-    "2816c80d-0d59-46ae-a726-919e9119834b": {
-      "title": "New Todo for update",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1667138888305,
-      "updatedDate": 1667138888312
-    },
-    "56223a9e-dac8-4834-8a51-25babc0c2317": {
-      "title": "New Todo for get",
-      "description": "Some description",
-      "isDone": true,
-      "createdDate": 1667138888317,
-      "updatedDate": 1667138888318
-    },
-    "afafa734-a3a7-453f-945a-ff1e450d55aa": {
-      "title": "New Todo 2",
-      "description": "Some description 2",
-      "isDone": true,
-      "createdDate": 1667138888317,
-      "updatedDate": 1667138888317
-    },
-    "011016c1-97c5-4e9c-a0e9-825594c69967": {
-      "title": "New Todo for update 2",
-      "description": "Some description",
-      "isDone": false,
-      "createdDate": 1667138888320,
-      "updatedDate": 1667138888321
+    "hol@example.com": {
+      "hashedPassword": "$2b$10$xhwr8XnR.U/ego4kxjNjEOVDbh7MXZ/bKCa6rjoLvYl3Fn5Lr6F1C",
+      "firstName": "Jeremy",
+      "lastName": "Santoni",
+      "createdDate": 1667143206080,
+      "updatedDate": 1667143206080
     }
   },
-  "test": 1667138884712
+  "todos": {
+    "509a3cc6-22ba-40b8-b78b-50b1785e0b4c": {
+      "title": "New Todo for get",
+      "description": "Some description",
+      "isDone": false,
+      "createdDate": 1667143205990,
+      "updatedDate": 1667143205990
+    },
+    "ffb647f2-7556-4f90-bb91-a6007b90c912": {
+      "title": "New Todo",
+      "description": "Some description",
+      "isDone": false,
+      "createdDate": 1667143206078,
+      "updatedDate": 1667143206078
+    },
+    "f053dc53-4403-4972-8d57-b6ed4ac52ce2": {
+      "title": "New Todo 2",
+      "description": "Some description 2",
+      "isDone": true,
+      "createdDate": 1667143206091,
+      "updatedDate": 1667143206091
+    },
+    "a1efd2fb-b6f7-4af8-a9be-c0efddfb1623": {
+      "title": "New Todo for update",
+      "description": "Some description 2",
+      "isDone": true,
+      "createdDate": 1667143206107,
+      "updatedDate": 1667143206115
+    },
+    "93046cc7-e6cd-4bcc-b6eb-c5e006c2904d": {
+      "title": "New Todo for get",
+      "description": "Some description",
+      "isDone": true,
+      "createdDate": 1667143206121,
+      "updatedDate": 1667143206122
+    },
+    "e1267a05-55a2-4067-aa0d-cb73cc295278": {
+      "title": "New Todo for update 2",
+      "description": "Some description",
+      "isDone": false,
+      "createdDate": 1667143206125,
+      "updatedDate": 1667143206126
+    }
+  },
+  "test": 1667143200977
 }
